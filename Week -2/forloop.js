@@ -1,3 +1,3 @@
-for(a=1;a<100;a++){
+for(a=7;a<100;a+=7){
     console.log(a)
 }
